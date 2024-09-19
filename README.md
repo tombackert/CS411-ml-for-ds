@@ -1,4 +1,4 @@
-# Machine Learning for Medical Purposes
+# CS411 Machine Learning for Medical Purposes
 
 ## Projects
 - Project 1: Data Exploration and Processing of the Iris Dataset
